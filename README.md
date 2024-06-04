@@ -1,7 +1,7 @@
 ## Hi Im Indri 👋
 
 <!--
-**IndriSuryaNingsih/IndriSuryaNingsih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Indri Surya Ningsih/Indri Surya Ningsih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
